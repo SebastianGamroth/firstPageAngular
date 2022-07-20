@@ -15,10 +15,11 @@ header {
         color: white;
         text-decoration: none;
         margin-left: 32px;
+        font-weight: 500;
 
         &:hover {
             color: rgba($color: white, $alpha: 0.8);
-            font-weight: 500;
+            // font-weight: 500;
         }
     }
 
