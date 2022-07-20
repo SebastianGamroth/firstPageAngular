@@ -1,4 +1,10 @@
 body {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans';
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(assets/fonts/open-sans-v29-latin-regular.woff2);
+    font-display: fallback;
 }
