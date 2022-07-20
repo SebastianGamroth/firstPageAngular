@@ -20,12 +20,12 @@ header {
 
         &:hover {
             color: rgba($color: white, $alpha: 0.8);
-            // font-weight: 500;
         }
     }
 
     img {
         height: 50px;
+        cursor: pointer;
     }
 }
 
